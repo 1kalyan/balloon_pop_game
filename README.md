@@ -3,8 +3,11 @@ Balloon Pop Python project
 Welcome to the Balloon Pop Game! This is a simple yet entertaining game developed using Python and the Pygame library. The objective of the game is to pop as many balloons as possible without hitting the bomb balloons.
 
 #Table of Contents
+
 Installation
+
 How to Play
+
 Game Features
 
 
@@ -14,14 +17,6 @@ To run this game, you'll need Python and Pygame installed on your system.
 Balloon Pop Game
 Welcome to the Balloon Pop Game! This is a simple yet entertaining game developed using Python and the Pygame library. The objective of the game is to pop as many balloons as possible without hitting the bomb balloons.
 
-Table of Contents
-Installation
-How to Play
-Game Features
-Contributing
-License
-Installation
-To run this game, you'll need Python and Pygame installed on your system.
 
 #How to Play
 

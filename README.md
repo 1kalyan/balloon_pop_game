@@ -23,15 +23,22 @@ Welcome to the Balloon Pop Game! This is a simple yet entertaining game develope
 -Start the Game
 
 -Run the game by executing python main.py.
+
 -The game will start with a menu screen where you can choose the difficulty level.
+
 -Select Difficulty
 
 # Gamefeatures
 Click on one of the options to start the game:
+
 Easy - Level 1
+
 Medium - Level 2
+
 Hard - Level 3
+
 Alternatively, you can choose "Exit" to quit the game.
+
 Gameplay
 
 Balloons will rise from the bottom of the screen.

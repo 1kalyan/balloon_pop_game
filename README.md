@@ -14,8 +14,6 @@ Game Features
 # Installation
 To run this game, you'll need Python and Pygame installed on your system.
 
-Balloon Pop Game
-Welcome to the Balloon Pop Game! This is a simple yet entertaining game developed using Python and the Pygame library. The objective of the game is to pop as many balloons as possible without hitting the bomb balloons.
 
 
 # How to Play
